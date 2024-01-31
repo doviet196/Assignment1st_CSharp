@@ -1,0 +1,14 @@
+D:\Project C#\Cach lam ASM\Cach lam ASM\bin\Debug\net8.0\Cach lam ASM.exe
+D:\Project C#\Cach lam ASM\Cach lam ASM\bin\Debug\net8.0\Cach lam ASM.deps.json
+D:\Project C#\Cach lam ASM\Cach lam ASM\bin\Debug\net8.0\Cach lam ASM.runtimeconfig.json
+D:\Project C#\Cach lam ASM\Cach lam ASM\bin\Debug\net8.0\Cach lam ASM.dll
+D:\Project C#\Cach lam ASM\Cach lam ASM\bin\Debug\net8.0\Cach lam ASM.pdb
+D:\Project C#\Cach lam ASM\Cach lam ASM\obj\Debug\net8.0\Cach lam ASM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C#\Cach lam ASM\Cach lam ASM\obj\Debug\net8.0\Cach lam ASM.AssemblyInfoInputs.cache
+D:\Project C#\Cach lam ASM\Cach lam ASM\obj\Debug\net8.0\Cach lam ASM.AssemblyInfo.cs
+D:\Project C#\Cach lam ASM\Cach lam ASM\obj\Debug\net8.0\Cach lam ASM.csproj.CoreCompileInputs.cache
+D:\Project C#\Cach lam ASM\Cach lam ASM\obj\Debug\net8.0\Cach lam ASM.dll
+D:\Project C#\Cach lam ASM\Cach lam ASM\obj\Debug\net8.0\refint\Cach lam ASM.dll
+D:\Project C#\Cach lam ASM\Cach lam ASM\obj\Debug\net8.0\Cach lam ASM.pdb
+D:\Project C#\Cach lam ASM\Cach lam ASM\obj\Debug\net8.0\Cach lam ASM.genruntimeconfig.cache
+D:\Project C#\Cach lam ASM\Cach lam ASM\obj\Debug\net8.0\ref\Cach lam ASM.dll
